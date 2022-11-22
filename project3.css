@@ -41,7 +41,7 @@ body{
 
 .s1{
     height: 620px;
-    width: 1350px;
+    width: 100%;
     background-image: url(hero-bg.jpg);
     background-size: cover;
     background-position-y: -70px;
@@ -294,7 +294,7 @@ body{
 }
 #s4{
     height: 1369px;
-    width: 1190px;
+    width: 92%;
     margin: 39px 0px 0px 83px;
     display: flex;
     flex-wrap: wrap;
@@ -387,7 +387,7 @@ body{
 }
 #s5{
     height: 780px;
-    width: 1350px;
+    width:  100%;
     background-color: rgb(34,40,49);
     margin-top: 152px;
     position: relative;
@@ -430,7 +430,7 @@ body{
   }
 #s6{
     height: 680px;
-    width: 1350px;
+    width:  100%;
     position: relative;
 }
 #s6 h2{
@@ -492,7 +492,7 @@ select{
   }
   .s7{
     height: 610px;
-    width: 1350px;
+    width:  100%;
     position: relative;
   }
   .s7 h1{
@@ -588,7 +588,7 @@ select{
     position: absolute;
 }
 .s8{
-    width: 1350px;
+    width:  100%;
     background-color: rgb(34,40,49);
     position: relative;
     height: 400px
